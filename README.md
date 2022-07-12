@@ -1,2 +1,2 @@
 # MineriaAUS
-proyecto de mineria de datos, clima en australia
+Este es un proyecto para Machine Learning el cual busca predecir si llovera mañana dentro de las ciudades donde mas llueve (Cairns, Darwin y CoffsHarbour), a traves del modelo CRIPS-DM, en donde realizamos pasos como la exploracion de datos y entendimiento del negocio, luego realizamos la limpieza y dejamos los datos que nos serviria y son relevante para la prediccion de la lluvia y finalmente escogimos el modelo que nos ayudara a predecir con precision la lluvia, donde nuestro modelo ganador fue RandomForestClassifier 
